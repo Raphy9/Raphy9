@@ -7,7 +7,7 @@ writing precise specifications of protocols, deriving tests from them, and verif
 their Rust implementations.
 
 ### Current work
-- **Ledgera** (CEA-List): formal specification and specification-based testing
+- [**Ledgera**](https://ledgera.tech/) (CEA-List): formal specification and specification-based testing
   of a Byzantine fault-tolerant ledger for verifiable computation.
 - **Multi-language smart contract verification** (LIP6, 2026): extended VeriSol/Boogie
   to Solidity, Cairo and Rust contracts, with compositional assume-guarantee reasoning.
